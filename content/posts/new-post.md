@@ -1,8 +1,8 @@
 ---
 
 type: "post"
-title: "Gorgeous Makeup Looks For This Winter"
-author: "Jane Doe"
+title: "This is a new POST"
+author: "Prem K"
 category: "makeup"
 date: "2020-01-01"
 slug: "/new-post"
